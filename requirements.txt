@@ -1,0 +1,11 @@
+elasticsearch==7.13.4
+requests
+dask
+jinja2
+pandas
+plotly
+tabulate
+pytest
+pytest-mock
+flake8
+numpy<2

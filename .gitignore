@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Python caching
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ZIP archives and Output data directories
+*.zip
+PSR_*/
+PSR_*.html
+tmp/
+
+# OS / Editor generated
+.DS_Store
+.idea/
+.vscode/
+
+# Temporary refactor scripts
+refactor*.py
+*_old*.py

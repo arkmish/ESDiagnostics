@@ -1,9 +1,0 @@
-elasticsearch==7.13.4
-requests
-statistics
-dask
-jinja2
-datetime
-pandas
-plotly
-tabulate
